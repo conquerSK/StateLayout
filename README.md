@@ -32,3 +32,4 @@
 	}
 
 ##  把所有共性的代码提取到BaseFragment  再把一部分代码 摘取到LoadingPage帧布局中
+状态切换布局可以使用成熟方案：https://github.com/KingJA/LoadSir
